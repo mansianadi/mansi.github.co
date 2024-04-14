@@ -93,7 +93,7 @@ body{
 }
 
 .navbar a:hover {
-  color: #117964;
+  color:  #08E71E;
 }
 .header{
 	padding-top: 200px;
@@ -116,7 +116,7 @@ body{
 }
 .header-subtitle, .section-title{
 	font-size: 73px;
-	margin: 60px 0px 60px;
+	margin: 50px 0px 50px;
 	color: #08E71E;
     font-family: 'Lily Script One';
 }
