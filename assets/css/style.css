@@ -136,6 +136,7 @@ body{
 	font-size: 48px;
 	margin:30px 0px 60px;
 	line-height: 60px;
+	font-weight:500
 }
 .header-paragraph, .section-paragraph{
 	line-height: 30px;
